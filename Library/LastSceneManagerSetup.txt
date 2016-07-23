@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Original Scenes/Uno.unity
+  isLoaded: 1
+  isActive: 1

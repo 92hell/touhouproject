@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Original Scripts\Eye3Movement.js">
+    <Files>
+      <File FileName="Assets\Original Scripts\CameraControl.js" Line="18" Column="3" />
+      <File FileName="Assets\Original Scripts\Eye1Movement.js" Line="56" Column="46" />
+      <File FileName="Assets\Original Scripts\SimpleUnit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Original Scripts\SampleUnit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Original Scripts\SampleSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets\TBS Framework\Scripts\Core\Unit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Original Scripts\SimpleSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets\Original Scripts\Eye3Movement.js" Line="56" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
