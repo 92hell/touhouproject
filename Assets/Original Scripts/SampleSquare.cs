@@ -1,7 +1,12 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
+using System;
 
 class SampleSquare : Square
 {
+    public Sprite TileImage;
+    public String TerrainType;
+
     public override Vector3 GetCellDimensions()
     {
         return GetComponent<Renderer>().bounds.size;
@@ -9,7 +14,7 @@ class SampleSquare : Square
 
     public override void MarkAsHighlighted()
     {
-        GetComponent<Renderer>().material.color = new Color(0.65f, 0.75f, 0.75f); ;
+        GetComponent<Renderer>().material.color = new Color(0.75f, 0.75f, 0.75f); ;
     }
 
     public override void MarkAsPath()
@@ -19,7 +24,7 @@ class SampleSquare : Square
 
     public override void MarkAsReachable()
     {
-        GetComponent<Renderer>().material.color = Color.yellow;
+        GetComponent<Renderer>().material.color = Color.magenta;
     }
 
     public override void UnMark()
